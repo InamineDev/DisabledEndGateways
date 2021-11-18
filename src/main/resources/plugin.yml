@@ -1,0 +1,5 @@
+name: DisabledEndGateways
+version: '${version}'
+main: me.inamine.disabledendgateways.DisabledEndGateways
+api-version: 1.17
+authors: [ Inamine ]
